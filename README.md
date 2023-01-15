@@ -16,8 +16,8 @@ Space Invaders Demo Video : https://drive.google.com/file/d/1Vvzp88c5d4YIfR10mT8
   
 Once you've launched the game, it should look like this   
 
-![](gamestart.png)  
+![](images/gamestart.png)  
   
 Once you win the game a win screen will be displayed
 
-![](winscreen.png)
+![](images/winscreen.png)
