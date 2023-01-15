@@ -8,15 +8,16 @@ All you need to do is run the main code in a folder with all the other modules a
 Then the program should immediately start.
 
 Space Invaders Demo Video : https://drive.google.com/file/d/1Vvzp88c5d4YIfR10mT8-r6rIDWZa3-ff/view?usp=sharing
-  
-![](Example/Startpage.PNG)
-  
-Once youve launched the game, it should look like this   
 
-![](Example/game.PNG)  
+### Game Controls:
+* <-- (Left arrow key) : Moves ship towards left.
+* --> (Right arrow key) : Moves ship towards right.
+* Spacebar : To shoot bullets.
   
-Moving around in the game requires you to left click on a piece and then right click on the red dots.  
-Once you do that the goal is to check mate the enemy king however way possible.  
-Goodluck   
+Once you've launched the game, it should look like this   
 
-![](Example/chec.PNG)
+![](gamestart.png)  
+  
+Once you win the game a win screen will be displayed
+
+![](winscreen.png)
